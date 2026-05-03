@@ -58,6 +58,7 @@ img {
   padding: 0 20px;
   max-width: var(--site-max-width);
 }
+h2 span {color:red} 
 section .section-title {
   text-align: center;
   padding: 60px 0 100px;
